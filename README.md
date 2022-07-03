@@ -8,9 +8,9 @@
 
 - 👨‍💻 All of my projects are available at [https://safiaahmed.netlify.app/](https://safiaahmed.netlify.app/)
 
-- 💬 Ask me about **JavaScript,React**
+- 💬 Ask me about **JavaScript, React**
 
-- 📫 How to reach me **safiaahmed@gmail.com**
+- 📫 How to reach me **safiaahmed1786@gmail.com**
 
 - ⚡ Fun fact **I Think I am funny**
 
