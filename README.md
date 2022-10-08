@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safiajotey&label=Profile%20views&color=0e75b6&style=flat" alt="safiajotey" /> </p>
 
-- 🌱 I’m currently learning **Mongoose**
 
 - 👨‍💻 All of my projects are available at [https://safiaahmed.netlify.app/](https://safiaahmed.netlify.app/)
 
