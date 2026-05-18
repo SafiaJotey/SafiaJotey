@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=I'm+Safia+Ahmed;Frontend+Engineer;UI%2FUX+Enthusiast;Transforming+Ideas+into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=I'm+Safia+Ahmed;Frontend+Engineer;Transforming+Ideas+into+Code" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://safiaahmed.netlify.app/" target="_blank">
