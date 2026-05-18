@@ -43,10 +43,11 @@
 
 ## 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safiajotey&show_icons=true&theme=tokyonight&display_format=set" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safiajotey&layout=compact&theme=tokyonight&display_format=set" alt="Top Languages" width="300" />
-</p>
+<div align="center">
+  <!-- Use a mirror to avoid downtime -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=safiajotey&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=safiajotey&layout=compact&theme=tokyonight" alt="Top Languages" width="40%" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=safiajotey&theme=tokyonight" alt="GitHub Streak" />
