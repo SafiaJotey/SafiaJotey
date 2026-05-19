@@ -32,7 +32,7 @@ I am a **Frontend Engineer** who bridges the gap between complex logic and elega
       <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,sass,mui,styledcomponents&perline=3" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=3" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,firebase&perline=3" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&perline=3" />
@@ -40,10 +40,7 @@ I am a **Frontend Engineer** who bridges the gap between complex logic and elega
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-4F8CC9?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-</div>
+
 
 ---
 
