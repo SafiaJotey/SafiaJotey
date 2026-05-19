@@ -1,37 +1,62 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=I'm+Safia+Ahmed;Frontend+Engineer;Transforming+Ideas+into+Code" alt="Typing SVG" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F8CC9&height=200&section=header&text=Safia%20Ahmed&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=Frontend+Engineer;React+%26+Next.js+Specialist;Building+Scalable+Web+Architectures;Pixel-Perfect+UI%2FUX+Implementation" alt="Typing SVG" />
   <p align="center">
     <a href="https://safiaahmed.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-0D1117?style=for-the-badge&logo=react&logoColor=4F8CC9&edge_flat=false" />
+      <img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-4F8CC9?style=for-the-badge&logo=react&logoColor=white&edge_flat=false" />
     </a>
   </p>
 </div>
 
+
+### 💫 About Me
+
+I am a **Frontend Engineer** who bridges the gap between complex logic and elegant design. My approach is centered on performance, accessibility, and creating seamless user experiences.
+- 🔭 **Current Focus:** Advanced Frontend Architectures & Design Systems.
+- ⚡ **Philosophy:** Writing clean, maintainable code that scales.
+- 🎨 **Passion:** Fluid animations and pixel-perfect UI implementation.
+- 🚀 **Goal:** Transforming innovative ideas into high-performance digital products.
+
 ---
 
-### ⚡ Creative Mind & Code Architect
-I specialize in crafting high-end digital experiences. My focus is on **performance, accessibility, and sleek aesthetics.** I don't just build websites; I build interfaces that feel alive.
+### 🛠️ Technical Arsenal
 
-- 🛠️ **Working with:** React, Next.js, and the modern web ecosystem.
-- 🎨 **Obsession:** Pixel-perfect implementation and fluid animations.
-- 🔭 **Current Goal:** Mastering Scalable Frontend Architectures.
-
----
-
-### 🚀 Tech Universe
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><strong>Frontend (Core)</strong></td>
+    <td align="center" width="33%"><strong>knowledgeable</strong></td>
+    <td align="center" width="33%"><strong>Tools & Platforms</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,sass,mui,styledcomponents&perline=3" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=3" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify&perline=3" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind,sass,mui,html,css,js,git,github,vscode,figma,netlify,vercel&perline=8" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-4F8CC9?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 </div>
 
-<br />
+---
+
+### 🚀 Featured Projects
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend-4F8CC9?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styling-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tools-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <a href="https://devinfra.shadhinmusic.com/" target="_blank">
+    <img src="https://i.ibb.co.com/CKSjBcjg/Dev-Share-05-12-2026-05-27-PM.png" width="46%" alt="Dev Share Project" />
+  </a>
+  &nbsp;
+  <a href="https://safiaahmed.netlify.app/" target="_blank">
+    <img src="https://i.ibb.co.com/VYJYXkT2/Safia-Ahmed-05-19-2026-10-51-AM.png" width="43%" alt="Portfolio Project" />
+  </a>
 </div>
 
 ---
@@ -39,12 +64,12 @@ I specialize in crafting high-end digital experiences. My focus is on **performa
 ### 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=safiajotey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8CC9&icon_color=4F8CC9&text_color=a9b1d6" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=safiajotey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8CC9&text_color=a9b1d6" width="42%" alt="Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=safiajotey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8CC9&icon_color=4F8CC9&text_color=a9b1d6" width="53%" alt="Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=safiajotey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8CC9&text_color=a9b1d6" width="40%" alt="Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safiajotey&theme=tokyonight&hide_border=true&stroke=4F8CC9&ring=4F8CC9&fire=4F8CC9&background=0D1117" width="91%" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safiajotey&theme=tokyonight&hide_border=true&stroke=4F8CC9&ring=4F8CC9&fire=4F8CC9&background=0D1117" width="61%" alt="Streak" />
 </div>
 
 ---
@@ -55,9 +80,9 @@ I specialize in crafting high-end digital experiences. My focus is on **performa
 <a href="https://linkedin.com/in/safiajotey" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:safiaahmed1786@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://fb.com/safiajotey" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://safiaahmed.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4F8CC9?style=for-the-badge&logo=react&logoColor=white" /></a>
 </p>
 
 <div align="center">
-  <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4F8CC9&height=100&section=footer" width="100%" />
 </div>
