@@ -66,7 +66,7 @@ I am a **Frontend Engineer** who bridges the gap between complex logic and elega
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safiajotey&theme=tokyonight&hide_border=true&stroke=4F8CC9&ring=4F8CC9&fire=4F8CC9&background=0D1117" width="61%" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=safiajotey&theme=tokyonight&hide_border=true&stroke=4F8CC9&ring=4F8CC9&fire=4F8CC9&background=0D1117&v=1" width="61%" alt="Streak" />
 </div>
 
 ---
